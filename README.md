@@ -7,10 +7,12 @@ uses SQLite database to store notes locally into disk
 
 Features ->
 
-add a text note
+Add a text note
 
-update a text note
+Update a text note
 
-delete a note
+Delete a note
 
-search a note by its title
+Search a note by its title
+
+Hindi language support
