@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="discard_dialog_title">Discard changes?</string>
+    <string name="discard_dialog_message">Are you sure to discard changes to the note?</string>
+    <string name="discard_dialog_pos">Yes</string>
+    <string name="discard_dialog_neg">No</string>
+    <string name="no_title">No Title</string>
+    <string name="empty_note">Empty Note</string>
+    <string name="note_saved">Note saved</string>
+    <string name="error_saving">Error saving note</string>
+    <string name="note_update">Note updated</string>
+    <string name="error_updating">Could not update note</string>
+    <string name="error_empty">Empty note without title can not be saved</string>
+    <string name="editor_add_title">Add Title</string>
+    <string name="editor_add_note">Add Note</string>
+    <string name="editor_save">Save</string>
+    <string name="editor_discard">Discard</string>
+    <string name="main_add_note">Add note here&#8230;</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">नोट्स</string>
+    <string name="discard_dialog_title">परिवर्तन छोड़ें?</string>
+    <string name="discard_dialog_message">क्या आप नोट में परिवर्तन छोड़ना सुनिश्चित कर रहे हैं?</string>
+    <string name="discard_dialog_pos">हां</string>
+    <string name="discard_dialog_neg">नहीं</string>
+    <string name="no_title">कोई शीर्षक नहीं</string>
+    <string name="empty_note">खाली नोट</string>
+    <string name="note_saved">नोट संग्रहीत किया गया</string>
+    <string name="error_saving">नोट संग्रहीत नहीं किया जा सका</string>
+    <string name="note_update">नोट अपडेट किया गया</string>
+    <string name="error_updating">नोट अपडेट नहीं किया जा सका</string>
+    <string name="error_empty">बिना शीर्षक के खाली नोट को संग्रहीत नहीं किया जा सकता है</string>
+    <string name="editor_add_title">शीर्षक लिखें</string>
+    <string name="editor_add_note">नोट लिखें</string>
+    <string name="editor_save">संग्रहित करें</string>
+    <string name="editor_discard">संग्रहित न करें</string>
+    <string name="main_add_note">नोट यहाँ लिख&#8230;</string>
+</resources>
